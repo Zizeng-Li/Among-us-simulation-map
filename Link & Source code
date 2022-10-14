@@ -1,0 +1,591 @@
+// A web-frinedly link for the program is below
+// https://macoutreach.rocks/share/1ed28d60
+
+
+//Source Code
+leaf1 = curve (9.9622,28.075) [Pull (7.0471,26.051) (5.1320,23.547),Pull (1.8113,22.135) (-1.509,19.924),Pull (-4.377,19.903) (-7.245,22.641),Pull (-7.776,16.452) (-10.86,10.264),Pull (-14.03,11.979) (-17.20,15.094),Pull (-24.11,17.046) (-24.45,25.358),Pull (-25.35,19.622) (-25.66,13.886),Pull (-26.78,12.832) (-27.47,12.377),Pull (-26.66,9.9732) (-26.86,7.8490),Pull (-27.62,6.5633) (-28.37,6.0377),Pull (-26.44,0.1656) (-23.54,-4.226),Pull (-25.14,-7.870) (-28.98,-8.754),Pull (-24.06,-12.46) (-19.62,-14.49),Pull (-14.92,-15.57) (-12.37,-14.18),Pull (-16.20,-26.56) (-22.03,-38.94),Pull (-20.50,-39.25) (-19.92,-39.24),Pull (-15.54,-27.32) (-10.56,-15.39),Pull (-8.452,-18.37) (-6.339,-20.22),Pull (-5.132,-19.47) (-3.924,-17.81),Pull (0.1509,-21.14) (4.2264,-21.43),Pull (2.7826,-18.86) (3.0188,-16.30),Pull (8.6037,-15.31) (14.188,-12.37),Pull (13.839,-10.04) (14.490,-8.150),Pull (16.534,-6.010) (19.018,-4.830),Pull (18.060,-3.018) (19.622,-1.207),Pull (22.339,1.4566) (25.056,3.3207),Pull (19.773,1.3150) (14.490,1.5094),Pull (9.7750,1.2132) (6.3396,2.7169),Pull (8.0128,6.9433) (10.566,11.169),Pull (7.4056,13.390) (7.2452,17.811),Pull (7.5218,21.735) (9.3584,25.660)]
+|> filled brown |> scale 0.5 |> move(-15,-20)
+leaf2 = curve (32.301,28.075) [Pull (34.560,24) (35.018,19.924),Pull (34.716,19.020) (34.415,18.716),Pull (35.222,16.301) (36.830,13.886),Pull (33.207,11.504) (29.584,9.9622),Pull (33.358,7.4290) (37.132,5.7358),Pull (37.250,4.8301) (36.528,3.9245),Pull (39.396,4.8245) (42.264,3.9245),Pull (42.964,2.4150) (42.264,0.9056),Pull (46.572,2.2954) (48,7.2452),Pull (51.169,2.5660) (54.339,-2.113),Pull (55.396,-1.962) (56.452,-1.811),Pull (53.132,2.5660) (49.811,6.9433),Pull (51.320,7.1615) (52.830,6.3396),Pull (55.312,9.0166) (56.754,11.773),Pull (55.396,11.853) (54.037,11.773),Pull (53.988,15.094) (54.339,18.415),Pull (52.561,22.370) (51.622,26.566),Pull (49.065,21.914) (46.188,19.622),Pull (43.659,20.793) (43.169,23.245),Pull (38.615,23.318) (32.301,28.075)]
+|> filled darkYellow |> move(0,10)
+leaf3 = curve (29.283,6.6415) [Pull (33.893,-6.339) (26.264,-19.32),Pull (19.622,-17.40) (12.981,-16.60),Pull (13.263,-18.41) (13.584,-20.22),Pull (9.8113,-23.47) (6.0377,-25.96),Pull (7.2143,-26.47) (8.1509,-27.47),Pull (6.6796,-29.84) (4.5283,-31.09),Pull (3.1132,-36.66) (-0.301,-39.54),Pull (7.4343,-37.80) (14.490,-36.83),Pull (15.643,-40.15) (15.396,-43.47),Pull (17.065,-45.24) (18.415,-45.58),Pull (19.960,-49.81) (20.226,-54.03),Pull (23.056,-50.39) (26.566,-47.39),Pull (27.380,-46.67) (28.075,-46.79),Pull (29.781,-42.56) (29.886,-38.33),Pull (37.299,-41.76) (43.471,-45.58),Pull (41.416,-39.55) (41.962,-34.41),Pull (42.276,-33.00) (43.471,-32.60),Pull (39.834,-29.46) (38.037,-26.56),Pull (39.007,-24.34) (41.056,-22.64),Pull (33.196,-19.37) (28.377,-20.83),Pull (32.244,-6.683) (29.283,6.6415)]
+|> filled red |> scale 0.7 |> move(-15,30)
+leaf4 = curve (66.716,9.3584) [Pull (64.196,0.3018) (63.396,-8.754),Pull (59.564,-7.209) (56.452,-6.943),Pull (52.064,-10.30) (47.396,-12.37),Pull (49.880,-13.84) (51.924,-16),Pull (49.504,-19.47) (48.603,-22.94),Pull (49.100,-25.35) (47.396,-27.77),Pull (48.380,-28.12) (48.603,-29.28),Pull (47.543,-33.05) (45.283,-36.22),Pull (52.075,-32.24) (58.867,-30.79),Pull (60.724,-33.05) (60.981,-35.32),Pull (62.792,-36.03) (64.603,-38.33),Pull (66.058,-41.50) (66.113,-44.67),Pull (68.512,-40) (72.150,-35.32),Pull (72.776,-31.24) (73.962,-27.16),Pull (80.239,-27.54) (86.037,-28.67),Pull (84.180,-23.73) (80.603,-20.22),Pull (80.447,-18.41) (81.811,-16.60),Pull (78.405,-14.24) (76.679,-11.77),Pull (77.115,-9.962) (78.792,-8.150),Pull (73.207,-7.176) (67.622,-6.641),Pull (66.195,-8.301) (65.207,-9.962),Pull (64.927,-0.150) (66.716,9.3584)]
+|> filled darkRed |> scale 0.4 |> move(35,-10)
+leaf5 = curve (66.716,9.3584) [Pull (64.196,0.3018) (63.396,-8.754),Pull (59.564,-7.209) (56.452,-6.943),Pull (52.064,-10.30) (47.396,-12.37),Pull (49.880,-13.84) (51.924,-16),Pull (49.504,-19.47) (48.603,-22.94),Pull (49.100,-25.35) (47.396,-27.77),Pull (48.380,-28.12) (48.603,-29.28),Pull (47.543,-33.05) (45.283,-36.22),Pull (52.075,-32.24) (58.867,-30.79),Pull (60.724,-33.05) (60.981,-35.32),Pull (62.792,-36.03) (64.603,-38.33),Pull (66.058,-41.50) (66.113,-44.67),Pull (68.512,-40) (72.150,-35.32),Pull (72.776,-31.24) (73.962,-27.16),Pull (80.239,-27.54) (86.037,-28.67),Pull (84.180,-23.73) (80.603,-20.22),Pull (80.447,-18.41) (81.811,-16.60),Pull (78.405,-14.24) (76.679,-11.77),Pull (77.115,-9.962) (78.792,-8.150),Pull (73.207,-7.176) (67.622,-6.641),Pull (66.195,-8.301) (65.207,-9.962),Pull (64.927,-0.150) (66.716,9.3584)]
+|> filled (rgb 255 185 110) |> scale 0.6 |> move(-30,46)
+leaf6 = curve (29.283,6.6415) [Pull (33.893,-6.339) (26.264,-19.32),Pull (19.622,-17.40) (12.981,-16.60),Pull (13.263,-18.41) (13.584,-20.22),Pull (9.8113,-23.47) (6.0377,-25.96),Pull (7.2143,-26.47) (8.1509,-27.47),Pull (6.6796,-29.84) (4.5283,-31.09),Pull (3.1132,-36.66) (-0.301,-39.54),Pull (7.4343,-37.80) (14.490,-36.83),Pull (15.643,-40.15) (15.396,-43.47),Pull (17.065,-45.24) (18.415,-45.58),Pull (19.960,-49.81) (20.226,-54.03),Pull (23.056,-50.39) (26.566,-47.39),Pull (27.380,-46.67) (28.075,-46.79),Pull (29.781,-42.56) (29.886,-38.33),Pull (37.299,-41.76) (43.471,-45.58),Pull (41.416,-39.55) (41.962,-34.41),Pull (42.276,-33.00) (43.471,-32.60),Pull (39.834,-29.46) (38.037,-26.56),Pull (39.007,-24.34) (41.056,-22.64),Pull (33.196,-19.37) (28.377,-20.83),Pull (32.244,-6.683) (29.283,6.6415)]
+|> filled lightRed |> scale 0.5 |> move(-40,40)
+
+type Singled a = SO (List a) a (List a)
+type alias Point = (Float,Float)
+type alias LID = (Int,Point)
+type alias Model = { time : Float , state : State , startt : Float, task1state: Task1State, dragState: DragState, pos:(Float, Float), startTime: Float, endTime: Float, task1Success: Task1Success }
+
+type Msg = Tick Float GetKeyState
+
+| P1L
+| P1LD
+| P1UL
+| P2D
+| P2DL
+| P2R
+| P2L
+| P2DR
+| P2RD
+| P2LD
+| P3R
+| P3RU
+| P3DR
+| P4U
+| P4UR
+| P4LU
+| Task1
+| Task2
+| Click (Singled LID) Point
+| Delete Point
+| Leafrepel Point
+| ClickInWallet
+| Task1Drag (Float, Float)
+| Task1ChangeDragState
+| Task1GetStartTime
+| Task1GetEndTime
+| Task1SuccessState
+| Task1Fall
+
+type Task1State = InWallet
+| Ready
+
+type DragState = Task1Released | Task1Dragging
+
+type StartTime = StartDraggingTime
+
+type EndTime = EndDraggingTime
+
+type Task1Success = Waiting | Task1Fail | Task1Success | TOOFast
+
+type State = Cafeteria
+
+| UpperEngine
+| MedBay
+| Reactor
+| Security
+| LowerEngine
+| Electrical
+| Storage
+| Admin
+| SwipeCardTask
+| CleanUpTask (List LID)
+| Dragleaf (Singled LID) Point
+
+startpos = [(1,(0,0)),(2,(0,0)),(3,(0,0)),(4,(0,0)),(5,(0,0)),(6,(0,0))]
+
+prependToBefore x1 (SO before selectedOne after) =
+SO (x1::before) selectedOne after
+
+singleOut : List a -> List (Singled a)
+singleOut xs =
+case xs of
+[] -> []
+x1 :: x2plus ->
+let
+x1WillBeInBefore = singleOut x2plus
+in
+(SO [] x1 x2plus)
+::
+(List.map (prependToBefore x1) x1WillBeInBefore)
+
+myShapes model =
+case model.state of
+Cafeteria ->
+[ text "Cafeteria"
+|> centered
+|> filled black,
+button (rgb 0 150 159) "Upper Engine" (0,-20) P1L model,
+button (rgb 240 203 216) "MedBay" (0,-45) P1LD model]
+
+MedBay ->
+[ text "MedBay"
+|> centered
+|> filled black,
+button (rgb 240 203 216) "Upper Engine" (0,-20) P1UL model]
+
+UpperEngine ->
+[ text "UpperEngine"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "LowerEngine" (0,-20) P2D model,
+button (rgb 0 150 159) "Reactor" (-35,-45) P2DL model,
+button (rgb 20 40 60) "Security" (35,-45) P2DR model]
+
+Security ->
+[ text "Security"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "Reactor" (0,-20) P2L model,
+button (rgb 0 150 159) "Lower Engine" (0,-45) P2LD model]
+
+Reactor ->
+[ text "Reactor"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "Security" (0,-20) P2R model,
+button (rgb 0 150 159) "Lower Engine" (-35,-45) P2RD model,
+button (rgb 20 40 60) "Task1" (35,-45) Task1 model]
+
+LowerEngine ->
+
+[ text "LowerEngine"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "Electrical" (0,-20) P3RU model,
+button (rgb 0 150 159) "Storage" (0,-45) P3R model]
+
+Storage ->
+[ text "Storage"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "Cafeteria" (0,-20) P4U model,
+button (rgb 0 150 159) "Admin" (0,-45) P4UR model]
+
+Admin ->
+[ text "Admin"
+|> centered
+|> filled black ,
+button (rgb 240 203 216) "Cafeteria" (0,-20) P4LU model,
+button (rgb 20 40 60) "Task2" (0,-45) Task2 model]
+
+Electrical ->
+[ text "Electrical"
+|> centered
+|> filled black ,
+button (rgb 255 188 226) "Storage" (0,-20) P3DR model]
+
+SwipeCardTask ->
+[ rect 120 160
+|> filled (rgb 150 150 150)
+, rect 120 10
+|> filled black
+|> move(0,30)
+
+
+, wallet |> outlined (solid 0.8) ( rgb 0 0 0 ) |> move(50,-60) |> scale 1.4
+,rect 120 10 |> filled (rgb 100 100 100) |> move (0,36)
+,roundedRect 120 10 2 |> outlined (solid 2.5) (black) |> move (0,36)
+, rect 40 15 |> filled (rgb 0 50 100) |> move (0,50) |> scaleX 2
+, rect 120 40 |> outlined (solid 1) (black) |> move (0,51)
+, rect 120 100 |> outlined (solid 1) (black) |> move (0,-25)
+, rect 120 1 |> filled white|> move(0,28)
+]++
+case model.task1state of
+InWallet ->
+[ card (-10, -20)
+|> notifyTap ClickInWallet
+]
+Ready ->
+[card (0,0)
+|> move model.pos
+|> notifyMouseDown Task1ChangeDragState
+|> notifyMouseDown Task1GetStartTime
+,
+case model.dragState of
+Task1Released -> group []
+Task1Dragging -> rect 185 125
+|> ghost
+|> notifyMouseMoveAt Task1Drag
+|> notifyLeave Task1ChangeDragState
+|> notifyMouseUp Task1ChangeDragState
+|> notifyMouseUp Task1GetEndTime
+|> notifyMouseUp Task1SuccessState
+|> notifyMouseUp Task1Fall
+|> notifyMouseUp Task1GetStartTime
+, if model.task1Success == Task1Success
+then text "SUCCESSFUL"
+|> size 5
+|> filled white
+|> move (-27, 50)
+else if model.task1Success == Task1Fail && model.dragState == Task1Released && model.endTime == 0
+then text "BAD READ. TRY AGAIN."
+|> size 5
+|> filled white
+|> move (-27, 50)
+else if model.task1Success == TOOFast
+then text "TOO FAST. TRY AGAIN."
+|> size 5
+|> filled white
+|> move (-27, 50)
+else if model.task1Success == Task1Fail && model.endTime - model.startTime > 2 && model.pos == (-25, 50)
+then text "TOO SLOW. TRY AGAIN."
+|> size 5
+|> filled white
+|> move (-27, 50)
+else text "PLEASE SWIPE CARD"
+|> size 5
+|> filled white
+|> move (-27, 50)
+, if model.task1Success == Task1Success
+then button (lightPurple) "Finish" (30,-20) Task2 model
+else button (lightPurple) "Finish" (300,-200) Task2 model]
+
+CleanUpTask pts ->
+[garbagechute]
+++ [timer model]
+++ (let pointSingled = singleOut pts
+in List.map (drawSO model) pointSingled)
+++ (if (model.time - model.startt) > 30 then [button (lightPurple) "Ready" (30,-20) Task1 model]
+else [])
+
+Dragleaf (SO before this after) _ ->
+[garbagechute]
+++ [timer model]
+++ [drawSelect this]
+++ (List.map (drawP model) before)
+++ (List.map (drawP model) after)
+++ (if model.time - model.startt > 30
+then [button (lightPurple) "Ready" (30,-20) Task1 model]
+else [rect 300 300
+|> filled blank
+|> notifyMouseMoveAt Delete
+|> notifyMouseUpAt Leafrepel
+|> notifyLeaveAt Leafrepel])
+--For point without singleout attribute
+drawP : Model -> LID -> Shape Msg
+drawP model (ord,(xMo,yMo)) =
+case ord of
+1 -> leaf1 |> move (xMo,yMo) |> move (10*sin (1*(model.time)),16*sin (1*(model.time)))
+2 -> leaf2 |> move (xMo,yMo) |> move (2*sin (1.4*(model.time)),13*sin (1*(model.time)))
+3 -> leaf3 |> move (xMo,yMo) |> move (4*sin (1*(model.time)),17*sin (1*(model.time)))
+4 -> leaf4 |> move (xMo,yMo) |> move (18*sin (1*(model.time)),1*sin (1*(model.time)))
+5 -> leaf5 |> move (xMo,yMo) |> move (3*sin (1.4*(model.time)),26*sin (1*(model.time)))
+otherwise -> leaf6 |> move (xMo,yMo) |> move (7*sin (1.5*(model.time)),3*sin (1.5*(model.time)))
+--For point with singleout attribute
+drawSO : Model -> (Singled LID) -> Shape Msg
+drawSO model (SO before (ord,(xMo,yMo)) after) = group [
+case ord of
+1 -> leaf1 |> move (xMo,yMo) |> move (10*sin (1*(model.time)),16*sin (1*(model.time)))
+2 -> leaf2 |> move (xMo,yMo) |> move (2*sin (1.4*(model.time)),13*sin (1*(model.time)))
+3 -> leaf3 |> move (xMo,yMo) |> move (4*sin (1*(model.time)),17*sin (1*(model.time)))
+4 -> leaf4 |> move (xMo,yMo) |> move (18*sin (1*(model.time)),1*sin (1*(model.time)))
+5 -> leaf5 |> move (xMo,yMo) |> move (3*sin (1.4*(model.time)),26*sin (1*(model.time)))
+otherwise -> leaf6 |> move (xMo,yMo) |> move (7*sin (1.5*(model.time)),3*sin (1.5*(model.time)))]
+|> notifyMouseDownAt (Click (SO before (ord,(xMo,yMo)) after))
+--Make leaf visible during dragging
+drawSelect : LID -> Shape Msg
+drawSelect (ord,(x,y)) =
+case ord of
+
+1 -> leaf1 |> move (x,y)
+2 -> leaf2 |> move (x,y)
+3 -> leaf3 |> move (x,y)
+4 -> leaf4 |> move (x,y)
+5 -> leaf5 |> move (x,y)
+otherwise -> leaf6 |> move (x,y)
+
+garbagechute = group[square 200
+|> filled (rgb 230 175 100)
+|> move(20,0),
+rect 22 140
+|> filled darkGrey
+|> move (-86,0),
+polygon [(6,12),(-4,22),(-4,-22),(6,-12)]
+|> filled black
+|> move (-86,0)]
+
+timer model = group [ let
+leafnum = case model.state of
+CleanUpTask xs -> List.length xs
+Dragleaf (SO before x after) _ -> 1 + List.length (before++after)
+otherwise -> 0
+in
+if model.time - model.startt < 0.5
+then text "Ready!"
+|> size 15
+|> filled darkRed
+|> move (-65,50)
+else if model.time - model.startt < 1
+then text "Go!"
+|> size 15
+|> filled darkRed
+|> move (-65,50)
+else if model.time - model.startt >= 1 && model.time - model.startt <= 30
+then text (("Leaf: "
+++ (Debug.toString leafnum))
+++" Time: "
+++ Debug.toString (round (30-model.time+model.startt)))
+|> filled blue
+|> scale 0.7
+|> move (-70,50)
+else text "Game Over"
+|> filled darkRed
+|> move (0,0) ]
+
+
+card pos = group [roundedRect 20 10 2
+|> filled (rgb 250 250 150)
+|> scale 2
+|> move (-15,-25)
+, roundedRect 40 20 2 |> outlined (solid 1) (black) |> move (-15,-25)
+,
+text " THOR CARD "
+|> filled black |> scale 0.5 |> move(-35,-20) ] |> move pos
+wallet = curve (-78.59,48.183) [Pull (-50.83,53.408) (-23.08,51.114),Pull (-32.55,44.273) (-45.43,40.671),Pull (-48.36,40.314) (-51.29,41.038),Pull (-67.30,41.873) (-78.59,48.549),Pull (-81.06,30.687) (-83.54,12.824),Pull (-57.43,13.099) (-31.32,13.374),Pull (-26.83,31.877) (-22.35,50.381),Pull (-22.90,50.473) (-23.45,50.564),Pull (-30.49,41.355) (-47.26,34.625),Pull (-66.51,37.692) (-78.59,48),Pull (-67.71,39.622) (-52.94,35.725),Pull (-53.77,24.549) (-54.59,13.374),Pull (-52.30,13.648) (-50.01,13.923),Pull (-48.91,24.091) (-47.81,34.259),Pull (-37.19,34.167) (-26.56,34.076),Pull (-26.83,32.793) (-27.11,31.511),Pull (-35.81,31.694) (-44.51,31.877),Pull (-45.25,24.824) (-45.98,17.770),Pull (-38.56,17.496) (-31.14,17.221),Pull (-31.32,15.297) (-31.51,13.374),Pull (-40.76,13.374) (-50.01,13.374),Pull (-52.48,13.465) (-54.96,13.557),Pull (-54.22,22.259) (-53.49,30.961),Pull (-66.87,27.371) (-80.24,32.061),Pull (-80.88,30.137) (-81.52,28.213),Pull (-81.61,25.923) (-78.59,48.183),Pull (-80.70,36.366) (-82.80,24.549),Pull (-68.24,21.174) (-53.67,24),Pull (-54.13,20.702) (-54.59,17.404),Pull (-68.79,15.510) (-82.99,18.137),Pull (-68.79,17.862) (-54.59,17.587),Pull (-54.32,15.847) (-54.04,14.106),Pull (-52.21,14.015) (-50.38,13.923),Pull (-40.94,13.923) (-31.51,13.923),Pull (-31.69,15.755) (-31.87,17.587),Pull (-32.88,21.343) (-33.89,25.099),Pull (-31.26,24.935) (-31.51,26.931),Pull (-32.73,29.580) (-36.64,30.229),Pull (-38.01,29.770) (-39.38,29.312),Pull (-39.78,28.392) (-39.02,29.312),Pull (-41.04,26.815) (-38.10,26.198),Pull (-37.46,25.923) (-36.82,25.648),Pull (-38.38,22.167) (-39.93,18.687),Pull (-40.39,18.412) (-40.85,18.137),Pull (-39.20,21.068) (-37.55,24),Pull (-38.56,25.923) (-39.57,27.847),Pull (-38.56,27.664) (-37.55,27.480),Pull (-36.64,26.931) (-35.72,26.381),Pull (-34.25,26.931) (-32.79,27.480),Pull (-32.33,27.572) (-31.87,27.664)]
+
+update msg model =
+
+case msg of
+
+Tick t _ ->
+{ model | time = t }
+Delete (x,y) ->
+case model.state of
+Dragleaf (SO before (ord,(xI,yI)) after) (xMo,yMo) ->
+if x < -82 && y < 22 && y > -22
+then
+if before == [] && after == []
+then { model | state = Reactor }
+else { model | state = CleanUpTask (before ++ after) }
+else { model | state = Dragleaf (SO before
+(ord,(xI+x-xMo,yI+y-yMo)) after) (x,y)}
+
+otherwise -> model
+
+Leafrepel (x,y) ->
+case model.state of
+Dragleaf (SO before (ord,(xI,yI)) after) (xMo,yMo) ->
+{ model | state = CleanUpTask (before ++ (ord,(xI+x-xMo,yI+y-yMo))::after)}
+otherwise -> model
+
+Click (SO before (ord,(xMo,yMo)) after) (x,y) ->
+case model.state of
+CleanUpTask _ -> { model | state =
+case ord of
+1 -> Dragleaf (SO before (ord,(xMo+(10*sin (1*(model.time))),yMo+(16*sin (1*model.time)))) after) (x,y)
+2 -> Dragleaf (SO before (ord,(xMo+(2*sin (1.4*(model.time))),yMo+(13*sin (1*(model.time))))) after) (x,y)
+3 -> Dragleaf (SO before (ord,(xMo+(4*sin (1*(model.time))),yMo+(17*sin (1*model.time)))) after) (x,y)
+4 -> Dragleaf (SO before (ord,(xMo+(18*sin (1*(model.time))),yMo+(1*sin (1*model.time)))) after) (x,y)
+5 -> Dragleaf (SO before (ord,(xMo+(3*sin (1.4*(model.time))),yMo+(26*sin (1*model.time)))) after) (x,y)
+otherwise -> Dragleaf (SO before (ord,(xMo+(7*sin (1.5*(model.time))),yMo+(3*sin (1.5*(model.time))))) after) (x,y) }
+_ -> model
+
+P1L ->
+
+case model.state of
+Cafeteria ->
+{ model | state = UpperEngine }
+otherwise ->
+model
+
+P1LD ->
+
+case model.state of
+Cafeteria ->
+{ model | state = MedBay }
+otherwise ->
+model
+
+P1UL ->
+
+case model.state of
+MedBay ->
+{ model | state = UpperEngine }
+otherwise ->
+model
+
+P2D ->
+case model.state of
+UpperEngine ->
+{ model | state = LowerEngine }
+otherwise ->
+model
+
+
+P2DL ->
+case model.state of
+UpperEngine ->
+{ model | state = Reactor }
+otherwise ->
+model
+
+P2R ->
+
+case model.state of
+Reactor ->
+{ model | state = Security }
+otherwise ->
+model
+
+P2L ->
+
+case model.state of
+Security ->
+{ model | state = Reactor }
+otherwise ->
+model
+
+P2DR ->
+
+case model.state of
+UpperEngine ->
+{ model | state = Security }
+otherwise ->
+model
+
+P2RD ->
+
+case model.state of
+Reactor ->
+{ model | state = LowerEngine }
+otherwise ->
+model
+
+P2LD ->
+case model.state of
+Security ->
+{ model | state = LowerEngine }
+otherwise ->
+model
+
+P3R ->
+case model.state of
+LowerEngine ->
+{ model | state = Storage }
+otherwise ->
+model
+
+P3RU ->
+case model.state of
+LowerEngine ->
+{ model | state = Electrical }
+otherwise ->
+model
+
+P3DR ->
+case model.state of
+Electrical ->
+{ model | state = Storage }
+otherwise ->
+model
+
+P4U ->
+case model.state of
+Storage ->
+{ model | state = Cafeteria }
+otherwise ->
+model
+
+P4UR ->
+case model.state of
+Storage ->
+{ model | state = Admin }
+otherwise ->
+model
+
+P4LU ->
+case model.state of
+Admin ->
+{ model | state = Cafeteria }
+otherwise ->
+model
+
+Task2 ->
+case model.state of
+Admin ->
+{ model | state = SwipeCardTask }
+SwipeCardTask ->
+{ model | state = Admin }
+otherwise ->
+model
+
+Task1 ->
+case model.state of
+Reactor ->
+{ model | state = CleanUpTask startpos
+,startt = model.time }
+
+CleanUpTask _ ->
+{ model | state = CleanUpTask startpos
+,startt = model.time }
+
+Dragleaf _ _ ->
+{ model | state = CleanUpTask startpos
+,startt = model.time }
+
+otherwise -> model
+
+ClickInWallet ->
+case model.task1state of
+InWallet ->
+{ model | task1state = Ready }
+otherwise ->
+model
+Task1Drag (x,y)->
+{model | pos = case model.dragState of
+Task1Dragging -> if x < -25
+then (-25,50)
+else if x > 60
+then (60, 50)
+else (x,50)
+Task1Released -> model.pos}
+Task1ChangeDragState ->
+{model | dragState = case model.dragState of
+Task1Released -> Task1Dragging
+Task1Dragging -> Task1Released}
+
+Task1GetStartTime ->
+{model | startTime = if model.startTime == 0
+then model.time
+else if model.task1Success == Task1Fail || model.task1Success == TOOFast
+then 0
+else model.startTime}
+
+Task1GetEndTime ->
+{model | endTime = if model.endTime == 0 && model.pos == (60, 50)
+then model.time
+else if model.task1Success == Task1Fail || model.task1Success == TOOFast
+then 0
+else model.endTime}
+
+Task1SuccessState ->
+{model | task1Success = if model.pos == (60, 50) || model.pos == (59, 50) || model.pos == (58, 50) || model.pos == (57, 50)
+then if model.endTime - model.startTime < 2 && model.endTime - model.startTime > 1
+then Task1Success
+else if model.endTime - model.startTime < 1
+then TOOFast
+else Task1Fail
+else if model.dragState == Task1Released && model.startTime /= 0
+then Task1Fail
+else if model.task1Success == Task1Fail && model.endTime - model.startTime < 1
+then TOOFast
+else Waiting}
+
+Task1Fall ->
+{model | pos = if model.task1Success == Task1Fail || model.task1Success == TOOFast
+then (-25, 50)
+else if model.task1Success == Task1Success
+then (-10, -20)
+else model.pos}
+
+button clr txt pos msg model = group
+[
+roundedRect 50 20 4
+|> filled clr
+,text txt
+|> centered
+|> size 8
+|> filled white
+|> move (0,-2)]
+|> move pos
+|> notifyTap msg
+
+init : Model
+init = { time = 0
+, state = Cafeteria
+, startt = 0
+, task1state = InWallet
+, dragState = Task1Released
+, pos = (-25, 50)
+, startTime = 0
+, endTime = 0
+, task1Success = Waiting}
+
+myStrr = text "CARD"
+|> filled (rgb 100 0 100)
